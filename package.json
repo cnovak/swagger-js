@@ -58,7 +58,7 @@
     "xmock": "^0.3.0"
   },
   "optionalDependencies": {
-    "node-inspector": "0.12.8"
+
   },
   "dependencies": {
     "babel-runtime": "^6.23.0",
